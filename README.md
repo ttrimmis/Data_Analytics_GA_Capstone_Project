@@ -75,3 +75,13 @@ Instructors will evaluate student skill based on the following rubric. For each 
 Incomplete (I)
 Does Not Meet Expectations (N)
 Meets Expectations (M)
+
+
+
+
+You must receive a score of Meets Expectations in all categories to pass this project.
+
+
+Good luck and have fun!
+![image](https://github.com/ttrimmis/Data_Analytics_GA_Capstone_Project/assets/24485193/86339424-ccba-4c18-9244-02cdfafc4b99)
+
